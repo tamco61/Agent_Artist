@@ -26,6 +26,8 @@
 
 ## Результаты
 
+Вот GitHub Pages: https://tamco61.github.io/Agent_Artist/gallery/
+
 ![Смена дня и ночи — раунд 2, SDXL](results/20261013_183533_c8bb96/rounds/round_02/sdxl.png)
 Мне понравилась эта работа в теме `Смена дня и ночи — раунд 2, SDXL`, хоть в итоге она и не сохранилась в третьей итерации.
 
