@@ -1,0 +1,18 @@
+{
+  "series": "new2",
+  "experiments": 8,
+  "rounds": 24,
+  "generated_images": 48,
+  "final_images": 16,
+  "critics": {
+    "gemini-3.5-flash-lite": 2,
+    "qwen3.6-35b-a3b": 6
+  },
+  "transfer_attempts": 24,
+  "transfer_outcomes": {
+    "realized": 13,
+    "not_realized": 9,
+    "uncertain": 2
+  },
+  "outcomes_are_critic_observations": true
+}

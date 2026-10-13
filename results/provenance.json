@@ -1,0 +1,82 @@
+[
+  {
+    "run_id": "20261013_183533_c8bb96",
+    "source_archive": "new2/20261013_183533_c8bb96.zip",
+    "archive_sha256": "a3627ce349271b51fde17f6d23cefffe073d64aae4ec6e443fada2ce1f4d4362",
+    "source_notebook": "new2/notebook25b27992ea.ipynb",
+    "execution_notebook": "executions/20261013_183533_c8bb96.ipynb",
+    "notebook_sha256": "83cd3bfc8676bcc07a3c6de35777ec5f89283f5225e11462df18e521d79476cc",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  },
+  {
+    "run_id": "20261013_184358_3637cb",
+    "source_archive": "new2/20261013_184358_3637cb.zip",
+    "archive_sha256": "b9092a29c46f16c974a095c781f8fbea270d5bf825d53089de84e3b69288bd13",
+    "source_notebook": "new2/notebook25b27992ea-2.ipynb",
+    "execution_notebook": "executions/20261013_184358_3637cb.ipynb",
+    "notebook_sha256": "9eea285a586664ea280edba5a3bba08bb5ffe583220cbab7f44ba3df3c351fa2",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  },
+  {
+    "run_id": "20261013_191709_295d43",
+    "source_archive": "new2/20261013_191709_295d43.zip",
+    "archive_sha256": "c7ddb9b0901b179eaaf2e41d549a46923347eab2aa85c064ab7cc9ea0665098e",
+    "source_notebook": "new2/notebook25b27992ea-3.ipynb",
+    "execution_notebook": "executions/20261013_191709_295d43.ipynb",
+    "notebook_sha256": "6f87b195c7bddd7c82fcf8128c9a5fb12d2cff06cb40d80a3a2d3bdb017fa2b1",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  },
+  {
+    "run_id": "20261013_192525_479f26",
+    "source_archive": "new2/20261013_192525_479f26-2.zip",
+    "archive_sha256": "5d8dee2e776d665d21ee3b9abbaf48eae61add4bac5bdc002e2664b46ad9af92",
+    "source_notebook": "new2/notebook25b27992ea-5.ipynb",
+    "execution_notebook": "executions/20261013_192525_479f26.ipynb",
+    "notebook_sha256": "5d0b0b0b95e26f965546a0512dd4354964a1f677c57654facee0d4605361853e",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  },
+  {
+    "run_id": "20261013_193948_20475d",
+    "source_archive": "new2/20261013_193948_20475d.zip",
+    "archive_sha256": "1042eed4ab9b78a364a05d5ef5378f90d9b52148df4f07d505d0c2480215bed9",
+    "source_notebook": "new2/notebook25b27992ea-6.ipynb",
+    "execution_notebook": "executions/20261013_193948_20475d.ipynb",
+    "notebook_sha256": "dc25f4e4d8199a80bf3495be9dbfcc0de283d6b178e24dd70a6cb2ed8d277af1",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  },
+  {
+    "run_id": "20261013_194427_caf80a",
+    "source_archive": "new2/20261013_194427_caf80a.zip",
+    "archive_sha256": "4dfb31466b5d8757f92ea51142fce290bf2e39d7a845086ca3f4f5e0063ef491",
+    "source_notebook": "new2/notebook25b27992ea-7.ipynb",
+    "execution_notebook": "executions/20261013_194427_caf80a.ipynb",
+    "notebook_sha256": "f491831b7f28c1f39a85f116947430cc58b4cc0eeabf8e02bf4ecc1fc7a462d9",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  },
+  {
+    "run_id": "20261013_195213_8c9702",
+    "source_archive": "new2/20261013_195213_8c9702.zip",
+    "archive_sha256": "67d1700c24aab32f91464bb652bff082d83fef635bf4011786d0213de618e7ae",
+    "source_notebook": "new2/notebook25b27992ea-8.ipynb",
+    "execution_notebook": "executions/20261013_195213_8c9702.ipynb",
+    "notebook_sha256": "ce083d52f04610d6a8a31afa90ad6147c7ee9a67bc462b331afe046a2d66f1e9",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  },
+  {
+    "run_id": "20261013_195742_7b2e11",
+    "source_archive": "new2/20261013_195742_7b2e11.zip",
+    "archive_sha256": "e57290bdf76b7b76315f5700dffecc26a14797ef6ede2f6193b15690f4c9dcc8",
+    "source_notebook": "new2/notebook25b27992ea-9.ipynb",
+    "execution_notebook": "executions/20261013_195742_7b2e11.ipynb",
+    "notebook_sha256": "cbdd5ac551cd44a462a96c6ed005c6b78c690597e3e2486c8b09bf30a1ab381b",
+    "generated_images": 6,
+    "import_policy": "Only completed exports; PNG hashes and final/round_03 equality verified; source files unchanged."
+  }
+]
